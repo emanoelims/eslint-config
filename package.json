@@ -7,6 +7,8 @@
   "repository": {
     "url": "git+https://github.com/emanoelims/eslint-config.git"
   },
+  "scripts": {},
+  "access": "public",
   "keywords": [],
   "author": "Emanoel Mendes",
   "license": "MIT",

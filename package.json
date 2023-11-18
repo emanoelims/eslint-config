@@ -1,0 +1,19 @@
+{
+  "name": "@emanoelims/eslint-config",
+  "version": "0.0.1",
+  "description": "ESlint configuration used by emanoelims",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/emanoelims/eslint-config.git"
+  },
+  "keywords": [],
+  "author": "Emanoel Mendes",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7"
+  }
+}

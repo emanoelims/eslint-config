@@ -12,6 +12,20 @@
   "keywords": [],
   "author": "Emanoel Mendes",
   "license": "MIT",
+  "prettier": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "arrowParens": "avoid",
+    "endOfLine": "auto",
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
+  },
   "dependencies": {
     "eslint": "^8.54.0",
     "eslint-config-prettier": "^9.0.0",
